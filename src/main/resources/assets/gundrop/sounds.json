@@ -1,0 +1,56 @@
+{
+  "fire_pistol": {
+    "sounds": [
+      "gundrop:fire_pistol"
+    ],
+    "subtitle": "sound.gundrop.gunshot"
+  },
+  "fire_revolver": {
+    "sounds": [
+      "gundrop:fire_revolver"
+    ],
+    "subtitle": "sound.gundrop.gunshot"
+  },
+  "fire_smg": {
+    "sounds": [
+      "gundrop:fire_smg"
+    ],
+    "subtitle": "sound.gundrop.gunshot"
+  },
+  "fire_rifle": {
+    "sounds": [
+      "gundrop:fire_rifle"
+    ],
+    "subtitle": "sound.gundrop.gunshot"
+  },
+  "fire_shotgun": {
+    "sounds": [
+      "gundrop:fire_shotgun"
+    ],
+    "subtitle": "sound.gundrop.gunshot"
+  },
+  "fire_sniper": {
+    "sounds": [
+      "gundrop:fire_sniper"
+    ],
+    "subtitle": "sound.gundrop.gunshot"
+  },
+  "fire_rocket": {
+    "sounds": [
+      "gundrop:fire_rocket"
+    ],
+    "subtitle": "sound.gundrop.gunshot"
+  },
+  "reload_click": {
+    "sounds": [
+      "gundrop:reload_click"
+    ],
+    "subtitle": "sound.gundrop.reload"
+  },
+  "dry_fire": {
+    "sounds": [
+      "gundrop:dry_fire"
+    ],
+    "subtitle": "sound.gundrop.dry_fire"
+  }
+}
